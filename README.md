@@ -15,14 +15,16 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwindcss"/>
 </p>
 
-<h3>🌟 About Me:</h3>
+<h3>About Me:</h3>
 <ul>
   <li>👨‍💻 Currently looking for my first challenge in the industry, while improving my skills and acquiring new knowledge.</li>
   <li>🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.</li>
   <li>🔗 Check out my latest project inspired by Fiveer.com: <a href="https://fiveerr.onrender.com/">5err</a>.</li>
   <li>🎯 Ambitious, high self-disciplined with a constant drive for professional excellence.</li>
-  <li>⛹️‍♂️ Fun fact: I love travelling, dogs and tailwinds</li>
+  <li>⛹️‍♂️ Fun fact: I love travelling, dogs and tailwindsCSS</li>
 </ul>
+
+<h2><a href="https://bnk-site.onrender.com/about">✨ VISIT MY SITE ✨</a></h2>
 
 <h3>📫 Connect with Me:</h3>
 <table>
